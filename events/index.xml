@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on Red Hat | Public Sector</title>
+    <link>http://redhatgov.io/events/</link>
+    <description>Recent content in Events on Red Hat | Public Sector</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://redhatgov.io/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ansible for DevOps Workshop - Tysons</title>
+      <link>http://redhatgov.io/events/20191217-ansible-for-devops-workshop-tysons-3398197399d4b3ce0fb7efee06678b29/</link>
+      <pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20191217-ansible-for-devops-workshop-tysons-3398197399d4b3ce0fb7efee06678b29/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
